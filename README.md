@@ -1,1 +1,2 @@
-# therealaustralian.github.io
+# https://masonpawsey.github.io
+/u/therealaustralian on reddit
