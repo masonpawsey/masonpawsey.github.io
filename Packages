@@ -1,12 +1,12 @@
 Package: com.therealaustralian.hexclock
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Mason Pawsey (therealaustralian) <mason.pawsey@yahoo.com>
-Filename: ./debs/com.therealaustralian.hexclock_1.0_iphoneos-arm.deb
-Size: 467488
-MD5sum: 2fa9753635a5fbd3b3dc4d71ebe7b5b5
-SHA1: c95f6fc487cba75768037909571939faed5b315d
-SHA256: 7ef8cdbc6b318bf5abae61d5b449b95565d1100f6c5fd9345a0b21c13a263c0b
+Filename: ./debs/com.therealaustralian.hexclock_1.1_iphoneos-arm.deb
+Size: 467496
+MD5sum: 3c8d618a10e58699f45566a767eaf1d5
+SHA1: f3e7e5b1e56f9eabe1218a78cebf4848809cb7a4
+SHA256: 6933d93cf2f9dd9f3f70abd3fa37f0651a5900ea4690d1a6c646eb741b63f8c2
 Section: Themes (Springboard)
 Description: The HexClock is a LockHTML4 theme that sets the lockscreen background to the colour of the 24-hour time in hex
 Author: Mason Pawsey <mason.pawsey@yahoo.com>
